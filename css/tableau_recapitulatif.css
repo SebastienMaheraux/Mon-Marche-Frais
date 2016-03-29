@@ -1,0 +1,33 @@
+
+table
+{
+	border-collapse:collapse;
+	width: 850px;
+}
+
+td,th
+{	
+	border: 1px solid green;
+	text-align:center;
+	
+}
+
+th {
+	width:10%;
+}
+
+#name
+{
+	width:20%;
+}
+
+#finalPrice
+{
+	background-color : green;
+	color : white;
+}
+
+#buttonEnd
+{
+	width : 20%;
+}
